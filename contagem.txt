@@ -1,0 +1,12 @@
+Maria Aparecida, 56
+Dado VilaLobos, 23
+Maravilha, 55
+Otaviano, 10
+Maria Aparecida, 103
+Maravilha, 103
+Dado VilaLobos, 230
+Otaviano, 85
+Maria Aparecida, 3
+Maravilha, 23
+Dado VilaLobos, 0
+Otaviano, 26
