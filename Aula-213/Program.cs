@@ -38,12 +38,12 @@ namespace Aula_213
                     if (candidatos.ContainsKey(nome))
                     {
 
-                        candidatos[nome] += int.Parse(dados[1]);
+                        candidatos[nome] += votos;
 
                     }
                     else 
                     {
-                        candidatos[nome] = int.Parse(dados[1]);
+                        candidatos[nome] = votos;
                     }
                    
                 }
